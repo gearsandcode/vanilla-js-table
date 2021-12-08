@@ -1,0 +1,17 @@
+table, td, tr, th {
+    border: 1px solid;
+}
+table {
+    border-collapse: collapse;
+}
+td, tr, th {
+    padding: 4px;
+}
+th:hover {
+    cursor: pointer;
+}
+
+html {
+    font-family: 'Courier New', Courier, monospace;
+    size: 16px;
+}
